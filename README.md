@@ -32,7 +32,3 @@ In this activity we will add the provided boilerplate to group project repos.
 * If completed successfully you should see all of the files uploaded to GitHub.
 
 * All other group members should now clone the repo.
-
-* Discuss as a group:
-
-  * How would you now add changes to this project?
